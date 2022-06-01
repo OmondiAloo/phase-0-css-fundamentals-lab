@@ -3,3 +3,60 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+header {
+  text-align: center;
+}
+   img {
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 900;
+}
+figcaption{
+  text-align: center;
+  font-size: small;
+}
+nav a{
+  display:inline-block;
+  padding-left:10px;
+  padding-right: 10px;
+  background-color: aquamarine;
+}
+.section{
+  text-align: center;
+  font-size: small;
+}
+
+
+nav {
+  margin-left: auto;
+  margin-right: auto;
+  
+  text-align: center;
+}
+#featured-property{
+
+      display:block;
+      text-align:center;
+      
+}
+
+   #details{
+     margin: auto;
+           float: left;
+           width: 25%;
+           text-align: center;
+}
+   div{
+    float: left;
+    text-align: center;
+    width:25%;
+    background-color: brown;
+    display: auto;
+    height: 100%;
+  
+  }
+  
